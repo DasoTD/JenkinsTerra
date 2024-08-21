@@ -16,10 +16,10 @@ The primary goal is to use infrastructure as code tool for rapid and reliable de
 - You must have a custom domain name that will be used to access the cluster
 
 ### Screenshots of the sockshop after deployment
-
+<!-- 
 ![Screenshot sockshop](https://github.com/codedken/altschool-capstone-project/blob/main/sockshop_screenshot1.png?raw=true)
 
-![Screenshot grafana prometheus](https://github.com/codedken/altschool-capstone-project/blob/main/sockshop_screenshot2.png?raw=true)
+![Screenshot grafana prometheus](https://github.com/codedken/altschool-capstone-project/blob/main/sockshop_screenshot2.png?raw=true) -->
 
 
 
